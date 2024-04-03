@@ -1,0 +1,19 @@
+.About{
+    margin-top: 60px;
+    background-color: whitesmoke;
+   padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+.aboutContent{
+    display: flex;
+    gap: 20px;
+    color: #e72e77;
+}
+.aboutImg img{
+    width: 50vw;
+}
+.aboutContent p{
+    font-style: italic;
+    text-align: justify;
+}
